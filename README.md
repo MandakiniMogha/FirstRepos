@@ -1,2 +1,2 @@
 hello welcome to git
-123456
+123
